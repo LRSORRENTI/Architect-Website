@@ -637,7 +637,7 @@ html {
 }
 
 .card-info h2 {
-  font-family: "Baloo Da 2", serif;
+  font-family: 'Playfair Display SC', serif;
   font-size: 2.5rem;
   line-height: 2.5rem;
   font-weight: 300;
@@ -645,7 +645,7 @@ html {
 }
 
 .card-info h3 {
-  font-family: "Muli", serif;
+  font-family: 'Playfair Display SC', serif;
   font-size: 2rem;
   font-weight: 500;
   color: #eee;
@@ -653,7 +653,7 @@ html {
 }
 
 .card-info p {
-  font-family: "Baloo da 2", serif;
+  font-family: 'Playfair Display SC', serif;
   font-size: 1.4rem;
   line-height: 1.6rem;
   font-weight: 300;
@@ -662,7 +662,7 @@ html {
   margin-bottom: 2rem;
 }
 
-.card-info button {
+/* .card-info button {
   width: 10rem;
   height: 3rem;
   background-color: #43414a;
@@ -674,7 +674,7 @@ html {
   border-radius: 0.3rem;
   cursor: pointer;
   box-shadow: 0 0.1rem 0.8rem rgba(0, 0, 0, 0.4);
-}
+} */
 
 .contact {
   width: 100%;
@@ -695,7 +695,7 @@ html {
 .contact-left {
   width: 35%;
   background: linear-gradient(rgba(15, 15, 15, 0.6), rgba(22, 22, 22, 0.9)),
-    url(images/contact-bg4.jpg) center no-repeat;
+    url(/images/contact-bg-min.jpg) center no-repeat;
   background-size: cover;
 }
 
